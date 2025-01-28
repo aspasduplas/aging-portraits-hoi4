@@ -68,7 +68,7 @@ on_actions = {
 			if = {
 				limit = {
 					date > 1938.1.1
-					date < 1938.3.1 
+					date < 1940.3.1 
 				}
 				set_portraits = {
 					character = CHI_chiang_kaishek 
@@ -96,7 +96,7 @@ on_actions = {
 			if = {
 				limit = {
 					date > 1938.1.1
-					date < 1938.3.1 
+					date < 1940.3.1 
 				}
 				set_portraits = {
 					character = SOV_iosif_stalin 
@@ -148,7 +148,7 @@ on_actions = {
 			if = {
 				limit = {
 					date > 1938.1.1
-					date < 1938.3.1 
+					date < 1940.3.1 
 				}
 				set_portraits = {
 					character = PRC_mao_zedong 

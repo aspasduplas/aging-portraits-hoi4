@@ -239,4 +239,32 @@ on_actions = {
 			}
 		}
 	}
+	on_monthly_USA = {
+		effect = {
+			if = {
+				limit = {
+					date > 1940.1.1
+					date < 1940.3.1 
+				}
+				set_portraits = {
+					character = USA_franklin_delano_roosevelt 
+					civilian = {
+						large = GFX_portrait_USA_roosevelt_4042
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1943.1.1
+					date < 1943.3.1 
+				}
+				set_portraits = {
+					character = USA_franklin_delano_roosevelt 
+					civilian = {
+						large = GFX_portrait_USA_roosevelt_4344
+					}
+				}
+			}
+		}
+	}
 }

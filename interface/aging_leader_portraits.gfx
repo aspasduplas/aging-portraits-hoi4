@@ -133,4 +133,21 @@ spriteTypes = {
 		name = "GFX_portrait_JAP_emperor_hirohito_4550"
 		texturefile = "gfx/leaders/JAP/Portrait_JAP_hirohito_4550.dds"
 	}
+
+#############################################
+#usa 
+	spriteType = {
+		name = "GFX_portrait_USA_franklin_delano_roosevelt"
+		texturefile = "gfx/leaders/USA/Portrait_USA_roosevelt_3639.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_USA_roosevelt_4042"
+		texturefile = "gfx/leaders/USA/Portrait_USA_roosevelt_4042.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_USA_roosevelt_4344"
+		texturefile = "gfx/leaders/USA/Portrait_USA_roosevelt_4344.dds"
+	}
 }

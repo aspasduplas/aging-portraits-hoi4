@@ -1,0 +1,242 @@
+on_actions = {
+	on_monthly_GER = {
+		effect = {
+			if = {
+				limit = {
+					date > 1940.1.1
+					date < 1940.3.1 
+				}
+				set_portraits = {
+					character = GER_adolf_hitler 
+					civilian = {
+						large = GFX_portrait_GER_adolf_hitler_40
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1941.1.1
+					date < 1941.3.1 
+				}
+				set_portraits = {
+					character = GER_adolf_hitler 
+					civilian = {
+						large = GFX_portrait_GER_adolf_hitler_4142
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1943.1.1
+					date < 1943.3.1 
+				}
+				set_portraits = {
+					character = GER_adolf_hitler 
+					civilian = {
+						large = GFX_portrait_GER_adolf_hitler_4344
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1945.1.1
+					date < 1945.3.1 
+				}
+				set_portraits = {
+					character = GER_adolf_hitler 
+					civilian = {
+						large = GFX_portrait_GER_adolf_hitler_4547
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1948.1.1
+					date < 1948.3.1 
+				}
+				set_portraits = {
+					character = GER_adolf_hitler 
+					civilian = {
+						large = GFX_portrait_GER_adolf_hitler_4854
+					}
+				}
+			}
+		}
+	}
+	on_monthly_CHI = {
+		effect = {
+			if = {
+				limit = {
+					date > 1938.1.1
+					date < 1938.3.1 
+				}
+				set_portraits = {
+					character = CHI_chiang_kaishek 
+					civilian = {
+						large = GFX_portrait_CHI_chiang_kaishek_3844
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1945.1.1
+					date < 1945.3.1 
+				}
+				set_portraits = {
+					character = CHI_chiang_kaishek 
+					civilian = {
+						large = GFX_portrait_CHI_chiang_kaishek_4549
+					}
+				}
+			}
+		}
+	}
+	on_monthly_SOV = {
+		effect = {
+			if = {
+				limit = {
+					date > 1938.1.1
+					date < 1938.3.1 
+				}
+				set_portraits = {
+					character = SOV_iosif_stalin 
+					civilian = {
+						large = GFX_portrait_SOV_iosif_stalin_3842
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1943.1.1
+					date < 1943.3.1 
+				}
+				set_portraits = {
+					character = SOV_iosif_stalin 
+					civilian = {
+						large = GFX_portrait_SOV_iosif_stalin_4344
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1945.1.1
+					date < 1945.3.1 
+				}
+				set_portraits = {
+					character = SOV_iosif_stalin 
+					civilian = {
+						large = GFX_portrait_SOV_iosif_stalin_4546
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1947.1.1
+					date < 1947.3.1 
+				}
+				set_portraits = {
+					character = SOV_iosif_stalin 
+					civilian = {
+						large = GFX_portrait_SOV_iosif_stalin_4753
+					}
+				}
+			}
+		}
+	}
+	on_monthly_PRC = {
+		effect = {
+			if = {
+				limit = {
+					date > 1938.1.1
+					date < 1938.3.1 
+				}
+				set_portraits = {
+					character = PRC_mao_zedong 
+					civilian = {
+						large = GFX_portrait_PRC_mao_zedong_3844
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1945.1.1
+					date < 1945.3.1 
+				}
+				set_portraits = {
+					character = PRC_mao_zedong 
+					civilian = {
+						large = GFX_portrait_PRC_mao_zedong_4553
+					}
+				}
+			}
+		}
+	}
+	on_monthly_ITA = {
+		effect = {
+			if = {
+				limit = {
+					date > 1940.1.1
+					date < 1940.3.1 
+				}
+				set_portraits = {
+					character = ITA_benito_mussolini 
+					civilian = {
+						large = GFX_portrait_ITA_benito_mussolini_4042
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1943.1.1
+					date < 1943.3.1 
+				}
+				set_portraits = {
+					character = ITA_benito_mussolini 
+					civilian = {
+						large = GFX_portrait_ITA_benito_mussolini_4347
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1948.1.1
+					date < 1948.3.1 
+				}
+				set_portraits = {
+					character = ITA_benito_mussolini 
+					civilian = {
+						large = GFX_portrait_ITA_benito_mussolini_4853
+					}
+				}
+			}
+		}
+	}
+	on_monthly_JAP = {
+		effect = {
+			if = {
+				limit = {
+					date > 1940.1.1
+					date < 1940.3.1 
+				}
+				set_portraits = {
+					character = JAP_emperor_hirohito 
+					civilian = {
+						large = GFX_portrait_JAP_hirohito_4044
+					}
+				}
+			}
+			if = {
+				limit = {
+					date > 1945.1.1
+					date < 1945.3.1 
+				}
+				set_portraits = {
+					character = JAP_emperor_hirohito 
+					civilian = {
+						large = GFX_portrait_JAP_hirohito_4550
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,136 @@
+spriteTypes = {
+#ger
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_3639.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler_40"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_40.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler_4142"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_4142.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler_4344"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_4344.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler_4547"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_4547.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_adolf_hitler_4854"
+		texturefile = "gfx/leaders/GER/Portrait_GER_hitler_4854.dds"
+	}
+
+
+#####################
+#chi
+	spriteType = {
+		name = "GFX_portrait_CHI_chiang_kaishek"
+		texturefile = "gfx/leaders/CHI/Portrait_CHI_chiang_kai_shek_3637.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_CHI_chiang_kaishek_3844"
+		texturefile = "gfx/leaders/CHI/Portrait_CHI_chiang_kai_shek_3844.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_CHI_chiang_kaishek_4549"
+		texturefile = "gfx/leaders/CHI/Portrait_CHI_chiang_kai_shek_4549.dds"
+	}
+
+
+########################
+#sov
+
+	spriteType = {
+		name = "GFX_portrait_SOV_iosif_stalin"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_joseph_stalin_3637.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_SOV_iosif_stalin_3842"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_joseph_stalin_3842.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_SOV_iosif_stalin_4344"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_joseph_stalin_4344.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_SOV_iosif_stalin_4546"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_joseph_stalin_4546.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_SOV_iosif_stalin_4753"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_joseph_stalin_4753.dds"
+	}
+
+####################################
+#prc 
+	spriteType = {
+		name = "GFX_portrait_prc_mao_zedong"
+		texturefile = "gfx/leaders/PRC/Portrait_PRC_mao_zedong_3637.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_PRC_mao_zedong_3844"
+		texturefile = "gfx/leaders/PRC/Portrait_PRC_mao_zedong_3844.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_PRC_mao_zedong_4553"
+		texturefile = "gfx/leaders/PRC/Portrait_PRC_mao_zedong_4553.dds"
+	}
+#########################################
+#ita 
+
+	spriteType = {
+		name = "GFX_portrait_ITA_benito_mussolini"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_benito_mussolini_3639.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ITA_benito_mussolini_4042"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_benito_mussolini_4042.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ITA_benito_mussolini_4347"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_benito_mussolini_4347.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ITA_benito_mussolini_4853"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_benito_mussolini_4853.dds"
+	}
+
+
+#######################################
+#jap
+	spriteType = {
+		name = "GFX_portrait_JAP_emperor_hirohito"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_hirohito_3639.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_emperor_hirohito_4044"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_hirohito_4044.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_emperor_hirohito_4550"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_hirohito_4550.dds"
+	}
+}
